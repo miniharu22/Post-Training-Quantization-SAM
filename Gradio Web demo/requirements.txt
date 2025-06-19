@@ -1,0 +1,8 @@
+einops
+gradio==3.50.2
+numpy
+opencv-python
+scikit-image
+scipy
+torch
+torchvision
